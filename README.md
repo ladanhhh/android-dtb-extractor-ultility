@@ -1,2 +1,3 @@
 # android-dtb-extractor-ultility
-a basic software allowing to extract dtb's from android firmware update files used mostly for tvboxes
+source code not provided ( you can dump it)
+code was fully made by chatgpt, no changes were made by me
