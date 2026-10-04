@@ -11,4 +11,4 @@ extract it
 run the run-windows_android_img_extractor.bat and run-windows_dtb_explorer.bat is for windows
 run the run-linux_android_img_extractor.sh and run-linux_dtb_explorer.sh is for linux
 
-<h4>macos : download the python runtime from the python.org website then run the python scripts directly in android-dtb-extractor-ultility-main\sources\<what ever this is>\<name>.py</h4>
+<h4>macos : download the python runtime from the python.org website then run the python scripts directly in android-dtb-extractor-ultility-main\sources\<what ever this is>\<python file name>.py</h4>
